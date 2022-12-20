@@ -1,1 +1,1 @@
-Same as main first version but on react
+Same as first version but on react
